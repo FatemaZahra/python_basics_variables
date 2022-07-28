@@ -9,6 +9,8 @@ _Note: The link automatically opens up for the operating system you are on. So d
 #### For macOs: https://www.jetbrains.com/help/pycharm/installation-guide.html#eb87607c
 #### For Linux: https://www.jetbrains.com/help/pycharm/installation-guide.html#89d8b75a
 
+_Note: Always run Pycharm as an administrator_
+
 ## Introduction to Python
 Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
 

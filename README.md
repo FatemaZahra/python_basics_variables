@@ -1,6 +1,6 @@
 # python_basics_variables
 ## To install python follow the steps
-Download the latest version of python using the following link: https://www.python.org/downloads/
+Download the latest version of python using the following link: [Python download](https://www.python.org/downloads/)
 
 ![Screenshot 2022-07-28 at 17 29 03](https://user-images.githubusercontent.com/102330725/181590027-3a9406a5-fe5c-4f7f-a172-44b70134869c.png)
 _Note: The link automatically opens up for the operating system you are on. So do not worry!_
@@ -25,11 +25,11 @@ python --version
 
 ## To setup Pycharm follow the link
 
-**For windows:** https://www.jetbrains.com/pycharm/download/#section=windows
+**For windows:** [Pycharm windows download](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-**For macOs:** https://www.jetbrains.com/pycharm/download/#section=mac
+**For macOs:** [Pycharm Mac download](https://www.jetbrains.com/pycharm/download/#section=mac)
 
-**For Linux:** https://www.jetbrains.com/pycharm/download/#section=linux
+**For Linux:** [Pycharm Linux download](https://www.jetbrains.com/pycharm/download/#section=linux)
 
 ![Screenshot 2022-07-28 at 17 40 56](https://user-images.githubusercontent.com/102330725/181592162-c7742535-60dc-4247-bbd8-430507a4bcbc.png)
 
@@ -63,3 +63,10 @@ A Python variable is a reserved memory location to store values. In other words,
 name = input()
 print(type(name))
 ```
+### Commands to push a repository
+
+`git add . `
+
+`git commit -m "message"`
+
+`git push -u origin main`

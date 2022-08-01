@@ -94,4 +94,29 @@ print(a > b) #true
 print(a < b) #false
 print(a == b) #false
 print(a !=b) #true
-print(a*b) 8
+print(a*b) #8
+```
+
+## Built-in methods
+```python
+# functions methods builtin python
+greeting = "Hello World!"
+
+# What options are available in pythons built-in library
+print(greeting)
+# if we wanted to check if the letters are in string
+print(greeting.isalpha()) #false
+
+#is it in lowercase, uppercase or mixed
+print(greeting.islower()) #false
+print(greeting.isdigit()) #false
+print(greeting.endswith("!"))
+print(greeting.startswith("H")) #case-sensitive
+```
+#### Strings Concatenation Casting
+- String indexing
+- `Hello World!`
+- Index in python starts with 0
+
+- Hello World!
+  01234567891011

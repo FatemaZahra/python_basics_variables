@@ -70,3 +70,28 @@ print(type(name))
 `git commit -m "message"`
 
 `git push -u origin main`
+
+### Data types and operators
+#### Two types of operators
+
+##### Arithmetic operators
+- `+ - * /`
+- `+` adds two operands (var) together
+- `-` subtract
+- `*` multiply
+- `/` divide
+
+##### Comparison operators
+- `>` greater than
+- `<` less than
+- `==` equals
+- `!=` not equals
+- `>=` greater than equals
+- `<=` less than equals
+
+```python
+print(a > b) #true
+print(a < b) #false
+print(a == b) #false
+print(a !=b) #true
+print(a*b) 8

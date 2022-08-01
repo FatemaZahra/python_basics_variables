@@ -40,6 +40,6 @@ print(greeting[6:11])
 # print 4th letter from left to right
 print(greeting[:3])
 #print 7 letter from right to left
-print(greeting[-7])
+print(greeting[:-7])
 #print 6 letter from right to left
-print(greeting[-6])
+print(greeting[:-6])

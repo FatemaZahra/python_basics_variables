@@ -76,3 +76,20 @@ print(devops_student_1)
 # find out how to change completed lesson from 3 to 2
 devops_student_1["completed_lessons"] = 2
 print(devops_student_1)
+
+# Control Flow
+
+## if, elif, else statements - conditional statements
+
+#psudo code
+
+weather = "dry" # True or False
+if weather == "sunny":
+    print("Let's do a BBQ") # execute this line if funny
+
+elif weather == "dry":
+    print("getting there")
+
+else:
+    print("Hope for the best")
+

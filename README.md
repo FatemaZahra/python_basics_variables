@@ -158,7 +158,10 @@ print(example_text.replace("with",","))
 ## Lists, Tuples & Dictionaries
 ### Lists
 What are lists?
-A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. Each element or value that is inside of a list is called an item. Just as strings are defined as characters between quotes, lists are defined by having values between square brackets [ ].
+
+- A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. 
+- Each element or value that is inside of a list is called an item. 
+- Just as strings are defined as characters between quotes, lists are defined by having values between square brackets [ ].
 
 Lists are great to use when you want to work with many related values. They enable you to keep data together that belongs together, condense your code, and perform the same methods and operations on multiple values at once.
 

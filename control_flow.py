@@ -32,12 +32,42 @@ dictionary = {
     "from" : "India",
     "lives" : "UK"
 }
+# print only keys
 print(dictionary.keys())
+# print only values
 print(dictionary.values())
 # use for loop to iterate through it
 for keys, values in dictionary.items():
+    # print key with matching value
     print(keys, values)
 
-# print only keys
-# print only values
-# print key with matching value
+# use case of multiple conditions
+# create a list with int values 1-4
+data_list = [1, 2, 3, 4]
+# iterate through the list using for loop
+for number in data_list:
+    # find 3 and print if found
+    if number == 3:
+        print("found 3")
+    # or else list number greater than 3 print gone too far
+    elif number > 3:
+        print("gone too far")
+     # otherwise print too soon
+    else:
+        print("too soon")
+
+# while loop?
+# while loops are mostly used as a monitor rather than handling items
+
+number = 0
+# iterate while number is less than 10
+while number < 10:
+    # print the number with message stating it's working
+    print(f"its working --> {number}")
+    # add +1 in each iteration
+    number += 1
+
+
+
+
+
